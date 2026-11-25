@@ -1,0 +1,159 @@
+body{
+    background-color: white;
+
+    
+}
+
+.container{
+margin-top: -150px;
+}
+.maindiv{
+    width: 520px;
+    height: 450px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 200px;
+    margin-left: 470px;
+    border: 3px solid rgb(230, 221, 221);
+}
+  .minidiv{
+width: 520px;
+height: 50px;
+background-color: rgb(224, 216, 216);
+border-radius:10px;
+margin-left: 470px;
+margin-top: 10px;
+
+  }
+  .loginbut{
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    width: 230px;
+    padding: 10px;
+    margin: 8px;
+    border: none;
+    font-size: 15px;
+
+  }
+  .password:hover{
+  color: black;
+    background-color: white;
+    border-radius: 5px;
+    width: 230px;
+    padding: 10px;
+    margin: 8px;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+  }
+
+  .password{
+    color: rgb(87, 84, 84);
+        font-size: 15px;
+        border: none;
+        background-color: rgb(224, 216, 216);
+        margin-left: 50px;
+
+  }
+h1{
+font-size: 20px;
+margin-left: 30px;
+margin-top: 35px;
+font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: rgb(109, 107, 107);
+    margin-left: 30px;
+    letter-spacing: 3;
+    margin-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+form{
+      margin-left: 30px;  
+}
+form input{
+    width: 440px; 
+    padding: 14px;
+    border-radius: 6px;
+    border: 2px solid rgb(173, 165, 165);
+    cursor: pointer;
+    display: block;
+
+}
+.lab2{
+    font-size: 18px;
+    letter-spacing: 3;
+}
+
+.mainh{
+color: rgb(161, 143, 143);
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 645px;
+margin-top: 150px;
+font-size: 15px;
+letter-spacing: 7;
+}
+
+.but3{
+    width: 470px; 
+    padding: 14px;
+    border-radius: 8px;
+    background-color: #2076ee;
+    border: none;
+    margin-top: 20px;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 3;
+}
+.but3:hover{
+    background-color: #0359d3;
+    cursor: pointer;
+}
+
+.maindiv2{
+    height: 550px;
+
+ width: 520px;
+     background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 470px;
+    border: 3px solid rgb(230, 221, 221);
+    }
+    .logo{
+        width: 500px;
+        height: 140px;
+   margin-left: 470px;
+   margin-top: 0px;
+    }
+    .logo2{
+           width: 500px;
+        height: 140px;
+   margin-left: 470px;
+   display: block;
+   padding: 0;
+   margin-bottom: 0;
+
+  
+    }
+
+    .container2{
+        margin-top: 0px;
+    margin-top: 0;
+    padding: 0;
+    
+    }
+    .mainh2{
+        margin-top: 0;
+        color: rgb(161, 143, 143);
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 645px;
+font-size: 15px;
+letter-spacing: 7;
+    }
+
+   
